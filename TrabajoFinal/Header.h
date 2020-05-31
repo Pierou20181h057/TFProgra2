@@ -6,7 +6,7 @@ public:
 	~MyClass();
 
 private:
-
+	int primate
 };
 
 MyClass::MyClass()
